@@ -8,7 +8,6 @@ How to use:
 - 🛝 This is how these IDs look: <https://sqids.org/playground>
 - 🙋‍♂️ How it works & FAQ: <https://sqids.org/faq>
 - 💻 Library specification can be found here: <https://github.com/sqids/sqids-spec>
-- 🐦 Follow us for updates & releases: <https://twitter.com/sqids_org>
 
 Get involved:
 - 👩‍💻 If you're good at coding, we'd love contributions: <https://sqids.org/faq#contribute>
