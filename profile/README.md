@@ -2,7 +2,6 @@ Hey there 👋
 
 🦑 [Sqids](https://sqids.org/) is a small library that can generate short, unique, non-sequential, profanity-free IDs. It's been translated into 40+ programming languages and is maintained by the community.
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sqids_org)](https://twitter.com/sqids_org)
 [![GitHub Org's stars](https://img.shields.io/github/stars/sqids)](https://sqids.org/)
 
 How to use:
